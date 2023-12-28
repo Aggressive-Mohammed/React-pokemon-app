@@ -1,2 +1,4 @@
-# React-pokemon-app
-A react application that fetches list of pokemon characters from https://pokeapi.co/api/v2/pokemon
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
